@@ -1,0 +1,15 @@
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\factory\FileStrategyFactory.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\service\package-info.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\service\FileService.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\config\AliyunOSSConfig.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\controller\FileController.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\config\AliyunOSSProperties.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\strategy\FileStrategy.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\config\MinioConfig.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\strategy\impl\MinioFileStrategy.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\XiaohashuOssBizApplication.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\config\MinioProperties.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\exception\GlobalExceptionHandler.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\service\impl\FileServiceImpl.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\strategy\impl\AliyunOSSFileStrategy.java
+E:\java_workspace\xiaohashu3\xiaohashu-17.9节\xiaohashu2\xiaohashu-oss\xiaohashu-oss-biz\src\main\java\com\quanxiaoha\xiaohashu\oss\biz\enums\ResponseCodeEnum.java

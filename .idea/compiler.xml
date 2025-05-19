@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for heartverse" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../../../../../environment/apache-maven-3.8.6/maven-repo/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="heartverse-spring-boot-starter-biz-context" />
+        <module name="heartverse-common" />
+        <module name="heartverse-spring-boot-starter-jackson" />
+        <module name="heartverse-spring-boot-starter-biz-operationlog" />
+        <module name="heartverse-auth" />
+        <module name="heartverse-gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

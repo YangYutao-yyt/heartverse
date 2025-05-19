@@ -1,0 +1,74 @@
+2025-05-06 21:50:33.624 [main] INFO  com.yyt.heartverse.auth.RedisTests - Starting RedisTests using Java 17.0.15 with PID 15728 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 21:50:33.626 [main] INFO  com.yyt.heartverse.auth.RedisTests - The following 1 profile is active: "dev"
+2025-05-06 21:50:34.822 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 21:50:34.825 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 21:50:34.909 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 0 Redis repository interfaces.
+2025-05-06 21:50:36.792 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 21:50:37.268 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 21:50:37.785 [main] INFO  com.yyt.heartverse.auth.RedisTests - Started RedisTests in 4.845 seconds (process running for 6.603)
+2025-05-06 21:50:39.181 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 21:50:39.205 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 21:51:42.556 [main] INFO  com.yyt.heartverse.auth.RedisTests - Starting RedisTests using Java 17.0.15 with PID 21604 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 21:51:42.559 [main] INFO  com.yyt.heartverse.auth.RedisTests - The following 1 profile is active: "dev"
+2025-05-06 21:51:43.686 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 21:51:43.693 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 21:51:43.756 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 30 ms. Found 0 Redis repository interfaces.
+2025-05-06 21:51:45.594 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 21:51:46.041 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 21:51:46.533 [main] INFO  com.yyt.heartverse.auth.RedisTests - Started RedisTests in 4.645 seconds (process running for 6.294)
+2025-05-06 21:51:47.846 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 21:51:47.856 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 21:52:51.427 [main] INFO  com.yyt.heartverse.auth.RedisTests - Starting RedisTests using Java 17.0.15 with PID 13476 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 21:52:51.430 [main] INFO  com.yyt.heartverse.auth.RedisTests - The following 1 profile is active: "dev"
+2025-05-06 21:52:52.596 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 21:52:52.600 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 21:52:52.650 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+2025-05-06 21:52:54.416 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 21:52:54.871 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 21:52:55.302 [main] INFO  com.yyt.heartverse.auth.RedisTests - Started RedisTests in 4.472 seconds (process running for 5.996)
+2025-05-06 21:52:56.626 [main] INFO  com.yyt.heartverse.auth.RedisTests - key 是否存在：true
+2025-05-06 21:52:56.653 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 21:52:56.663 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 21:53:08.580 [main] INFO  com.yyt.heartverse.auth.RedisTests - Starting RedisTests using Java 17.0.15 with PID 28588 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 21:53:08.583 [main] INFO  com.yyt.heartverse.auth.RedisTests - The following 1 profile is active: "dev"
+2025-05-06 21:53:09.765 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 21:53:09.771 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 21:53:09.841 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 22 ms. Found 0 Redis repository interfaces.
+2025-05-06 21:53:11.535 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 21:53:12.019 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 21:53:12.428 [main] INFO  com.yyt.heartverse.auth.RedisTests - Started RedisTests in 4.607 seconds (process running for 6.282)
+2025-05-06 21:53:13.853 [main] INFO  com.yyt.heartverse.auth.RedisTests - value 值：犬小哈
+2025-05-06 21:53:13.880 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 21:53:13.897 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 21:53:27.986 [main] INFO  com.yyt.heartverse.auth.RedisTests - Starting RedisTests using Java 17.0.15 with PID 28240 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 21:53:27.988 [main] INFO  com.yyt.heartverse.auth.RedisTests - The following 1 profile is active: "dev"
+2025-05-06 21:53:29.300 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 21:53:29.306 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 21:53:29.383 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+2025-05-06 21:53:31.136 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 21:53:31.567 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 21:53:32.029 [main] INFO  com.yyt.heartverse.auth.RedisTests - Started RedisTests in 4.675 seconds (process running for 6.234)
+2025-05-06 21:53:33.312 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 21:53:33.325 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 22:12:07.225 [main] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - Starting ThreadPoolTaskExecutorTests using Java 17.0.15 with PID 24920 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 22:12:07.227 [main] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - The following 1 profile is active: "dev"
+2025-05-06 22:12:08.511 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 22:12:08.514 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 22:12:08.581 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 30 ms. Found 0 Redis repository interfaces.
+2025-05-06 22:12:10.541 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 22:12:10.980 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 22:12:11.404 [main] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - Started ThreadPoolTaskExecutorTests in 4.824 seconds (process running for 6.522)
+2025-05-06 22:12:11.896 [AuthExecutor-1] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - 异步线程中说: 杨宇涛
+2025-05-06 22:12:11.915 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 22:12:11.926 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 22:32:37.004 [main] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - Starting ThreadPoolTaskExecutorTests using Java 17.0.15 with PID 26664 (started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth)
+2025-05-06 22:32:37.007 [main] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - The following 1 profile is active: "dev"
+2025-05-06 22:32:38.068 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 22:32:38.071 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 22:32:38.134 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+2025-05-06 22:32:40.283 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 22:32:40.790 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 22:32:41.306 [main] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - Started ThreadPoolTaskExecutorTests in 4.93 seconds (process running for 6.763)
+2025-05-06 22:32:42.011 [AuthExecutor-1] INFO  c.yyt.heartverse.auth.ThreadPoolTaskExecutorTests - 异步线程中说: 杨宇涛
+2025-05-06 22:32:42.035 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 22:32:42.053 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

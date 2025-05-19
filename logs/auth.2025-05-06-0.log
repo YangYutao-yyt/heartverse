@@ -1,0 +1,550 @@
+2025-05-06 19:27:53.330 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 21872 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 19:27:53.330 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 19:27:54.463 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 19:27:54.472 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 19:27:54.472 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 19:27:54.560 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 19:27:54.560 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1182 ms
+2025-05-06 19:27:54.893 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 19:27:55.147 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 19:27:55.443 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 19:27:55.451 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.657 seconds (process running for 3.446)
+2025-05-06 19:44:54.609 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 19:44:54.609 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 19:45:00.149 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 13432 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 19:45:00.156 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 19:45:01.184 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 19:45:01.191 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 19:45:01.192 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 19:45:01.277 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 19:45:01.278 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1076 ms
+2025-05-06 19:45:01.633 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 19:45:01.874 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 19:45:02.156 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 19:45:02.169 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.561 seconds (process running for 3.382)
+2025-05-06 19:49:35.240 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 19:49:35.254 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 19:49:41.989 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 1952 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 19:49:41.992 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 19:49:43.057 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 19:49:43.065 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 19:49:43.066 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 19:49:43.166 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 19:49:43.166 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1123 ms
+2025-05-06 19:49:43.523 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 19:49:43.769 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 19:49:44.043 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 19:49:44.053 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.617 seconds (process running for 3.38)
+2025-05-06 19:54:27.827 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 19:54:27.827 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 19:54:27.828 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 19:54:27.915 [http-nio-8080-exec-1] ERROR c.y.h.auth.exception.GlobalExceptionHandler - /test2 request error, 
+org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `java.time.LocalDateTime` from String "2024-05-14 12:00:00": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2024-05-14 12:00:00' could not be parsed at index 10
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.readJavaType(AbstractJackson2HttpMessageConverter.java:406)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.read(AbstractJackson2HttpMessageConverter.java:354)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.readWithMessageConverters(AbstractMessageConverterMethodArgumentResolver.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.readWithMessageConverters(RequestResponseBodyMethodProcessor.java:163)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:136)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:181)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1080)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at com.alibaba.druid.support.jakarta.WebStatFilter.doFilter(WebStatFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDateTime` from String "2024-05-14 12:00:00": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2024-05-14 12:00:00' could not be parsed at index 10
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 3, column: 18] (through reference chain: com.yyt.heartverse.auth.controller.User["createTime"])
+	at com.fasterxml.jackson.databind.exc.InvalidFormatException.from(InvalidFormatException.java:67)
+	at com.fasterxml.jackson.databind.DeserializationContext.weirdStringException(DeserializationContext.java:1958)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleWeirdStringValue(DeserializationContext.java:1245)
+	at com.fasterxml.jackson.datatype.jsr310.deser.JSR310DeserializerBase._handleDateTimeException(JSR310DeserializerBase.java:176)
+	at com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer._fromString(LocalDateTimeDeserializer.java:179)
+	at com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer.deserialize(LocalDateTimeDeserializer.java:81)
+	at com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer.deserialize(LocalDateTimeDeserializer.java:40)
+	at com.fasterxml.jackson.databind.deser.impl.MethodProperty.deserializeAndSet(MethodProperty.java:129)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:393)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectReader._bindAndClose(ObjectReader.java:2125)
+	at com.fasterxml.jackson.databind.ObjectReader.readValue(ObjectReader.java:1501)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.readJavaType(AbstractJackson2HttpMessageConverter.java:395)
+	... 54 common frames omitted
+Caused by: java.time.format.DateTimeParseException: Text '2024-05-14 12:00:00' could not be parsed at index 10
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2052)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1954)
+	at java.base/java.time.LocalDateTime.parse(LocalDateTime.java:494)
+	at com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer._fromString(LocalDateTimeDeserializer.java:177)
+	... 63 common frames omitted
+2025-05-06 20:02:29.629 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 20:02:29.637 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 20:02:38.453 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 1308 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 20:02:38.457 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 20:02:39.604 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 20:02:39.613 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 20:02:39.613 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 20:02:39.697 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 20:02:39.697 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1179 ms
+2025-05-06 20:02:40.060 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 20:02:40.306 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 20:02:40.596 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 20:02:40.604 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.757 seconds (process running for 3.716)
+2025-05-06 20:02:55.055 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 20:02:55.056 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 20:02:55.057 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 20:02:55.165 [http-nio-8080-exec-1] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口2], 入参: {"nickName":null,"createTime":"2024-05-14 12:00:00"}, 请求类: TestController, 请求方法: test2 =================================== 
+2025-05-06 20:02:55.169 [http-nio-8080-exec-1] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口2], 耗时: 14ms, 出参: {"success":true,"message":null,"errorCode":null,"data":{"nickName":null,"createTime":"2024-05-14 12:00:00"}} =================================== 
+2025-05-06 20:03:38.783 [http-nio-8080-exec-3] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口2], 入参: {"nickName":null,"createTime":"2024-05-14 12:00:00"}, 请求类: TestController, 请求方法: test2 =================================== 
+2025-05-06 20:03:38.784 [http-nio-8080-exec-3] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口2], 耗时: 0ms, 出参: {"success":true,"message":null,"errorCode":null,"data":{"nickName":null,"createTime":"2024-05-14 12:00:00"}} =================================== 
+2025-05-06 20:04:26.078 [http-nio-8080-exec-4] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口2], 入参: {"nickName":"犬小哈","createTime":"2024-05-14 12:00:00"}, 请求类: TestController, 请求方法: test2 =================================== 
+2025-05-06 20:04:26.079 [http-nio-8080-exec-4] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口2], 耗时: 1ms, 出参: {"success":true,"message":null,"errorCode":null,"data":{"nickName":"犬小哈","createTime":"2024-05-14 12:00:00"}} =================================== 
+2025-05-06 20:05:06.697 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 20:05:06.705 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 20:05:14.020 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 5108 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 20:05:14.023 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 20:05:15.098 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 20:05:15.105 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 20:05:15.105 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 20:05:15.193 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 20:05:15.193 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1113 ms
+2025-05-06 20:05:15.538 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 20:05:15.854 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 20:05:16.187 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 20:05:16.198 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.831 seconds (process running for 3.643)
+2025-05-06 20:05:21.488 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 20:05:21.488 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 20:05:21.490 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-05-06 20:05:21.589 [http-nio-8080-exec-1] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口2], 入参: {"nickName":"犬小哈","createTime":"2024-05-14 12:00:00"}, 请求类: TestController, 请求方法: test2 =================================== 
+2025-05-06 20:05:21.592 [http-nio-8080-exec-1] ERROR c.y.h.auth.exception.GlobalExceptionHandler - /test2 request error, 
+java.lang.ArithmeticException: / by zero
+	at com.yyt.heartverse.auth.controller.TestController.test2(TestController.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:752)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at com.yyt.framework.biz.operationlog.aspect.ApiOperationLogAspect.doAround(ApiOperationLogAspect.java:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:633)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:623)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:752)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:752)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:703)
+	at com.yyt.heartverse.auth.controller.TestController$$SpringCGLIB$$0.test2(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1080)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at com.alibaba.druid.support.jakarta.WebStatFilter.doFilter(WebStatFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2025-05-06 20:08:28.597 [http-nio-8080-exec-5] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口2], 入参: {"nickName":"","createTime":"2024-05-14 12:00:00"}, 请求类: TestController, 请求方法: test2 =================================== 
+2025-05-06 20:08:28.597 [http-nio-8080-exec-5] ERROR c.y.h.auth.exception.GlobalExceptionHandler - /test2 request error, 
+java.lang.ArithmeticException: / by zero
+	at com.yyt.heartverse.auth.controller.TestController.test2(TestController.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:752)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at com.yyt.framework.biz.operationlog.aspect.ApiOperationLogAspect.doAround(ApiOperationLogAspect.java:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:633)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:623)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:752)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:752)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:703)
+	at com.yyt.heartverse.auth.controller.TestController$$SpringCGLIB$$0.test2(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1080)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at com.alibaba.druid.support.jakarta.WebStatFilter.doFilter(WebStatFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2025-05-06 20:08:37.926 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 20:08:37.933 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 20:08:58.037 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 22372 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 20:08:58.040 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 20:08:59.190 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 20:08:59.200 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 20:08:59.200 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 20:08:59.324 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 20:08:59.325 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1236 ms
+2025-05-06 20:08:59.679 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 20:08:59.940 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 20:09:00.245 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 20:09:00.256 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.816 seconds (process running for 3.619)
+2025-05-06 20:09:03.171 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 20:09:03.171 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 20:09:03.172 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 20:09:03.326 [http-nio-8080-exec-1] WARN  c.y.h.auth.exception.GlobalExceptionHandler - /test2 request error, errorCode: AUTH-10001, errorMessage: nickName 昵称不能为空, 当前值: ''; 
+2025-05-06 20:21:36.908 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 20:21:36.915 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 20:21:50.267 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 24408 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 20:21:50.270 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 20:21:51.340 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 20:21:51.349 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 20:21:51.349 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 20:21:51.444 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 20:21:51.445 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1135 ms
+2025-05-06 20:21:51.839 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 20:21:52.095 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 20:21:52.381 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 20:21:52.391 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.813 seconds (process running for 3.758)
+2025-05-06 20:22:04.855 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 20:22:04.861 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 20:22:13.712 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 25240 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 20:22:13.713 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 20:22:14.856 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 20:22:14.864 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 20:22:14.864 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 20:22:14.957 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 20:22:14.957 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1191 ms
+2025-05-06 20:22:15.334 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 20:22:15.595 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 20:22:15.878 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 20:22:15.886 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 2.741 seconds (process running for 3.57)
+2025-05-06 20:22:36.786 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 20:22:36.786 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 20:22:36.787 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 20:22:36.839 [http-nio-8080-exec-1] WARN  o.s.core.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.yyt.heartverse.auth.controller.TestController
+2025-05-06 21:45:34.292 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 21:45:34.294 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 22:06:54.489 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 22740 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 22:06:54.491 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 22:06:55.172 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 22:06:55.173 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 22:06:55.203 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2025-05-06 22:06:56.204 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 22:06:56.224 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 22:06:56.224 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 22:06:56.348 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 22:06:56.349 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1810 ms
+2025-05-06 22:06:57.101 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 22:06:57.342 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 22:06:57.702 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 22:06:57.709 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.718 seconds (process running for 5.143)
+2025-05-06 22:07:27.557 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 22:07:27.557 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 22:07:27.558 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 22:07:27.708 [http-nio-8080-exec-2] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [发送短信验证码], 入参: {"phone":"18019939108"}, 请求类: VerificationCodeController, 请求方法: send =================================== 
+2025-05-06 22:07:28.176 [http-nio-8080-exec-2] INFO  c.y.h.a.service.impl.VerificationCodeServiceImpl - ==> 手机号: 18019939108, 已发送验证码：【646757】
+2025-05-06 22:07:28.183 [http-nio-8080-exec-2] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [发送短信验证码], 耗时: 484ms, 出参: {"success":true,"message":null,"errorCode":null,"data":null} =================================== 
+2025-05-06 22:08:15.588 [http-nio-8080-exec-3] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [发送短信验证码], 入参: {"phone":"18019939108"}, 请求类: VerificationCodeController, 请求方法: send =================================== 
+2025-05-06 22:08:15.599 [http-nio-8080-exec-3] WARN  c.y.h.auth.exception.GlobalExceptionHandler - /verification/code/send request fail, errorCode: AUTH-20000, errorMessage: 请求太频繁，请3分钟后再试
+2025-05-06 22:28:56.363 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 22:28:56.364 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 22:32:50.038 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 24828 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 22:32:50.039 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 22:32:50.645 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 22:32:50.647 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 22:32:50.679 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2025-05-06 22:32:51.273 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 22:32:51.282 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 22:32:51.282 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 22:32:51.376 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 22:32:51.376 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1294 ms
+2025-05-06 22:32:52.065 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 22:32:52.299 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 22:32:52.635 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 22:32:52.643 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.089 seconds (process running for 4.172)
+2025-05-06 22:33:02.323 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 22:33:02.323 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 22:33:02.324 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 22:33:02.468 [http-nio-8080-exec-2] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [发送短信验证码], 入参: {"phone":"15062396748"}, 请求类: VerificationCodeController, 请求方法: send =================================== 
+2025-05-06 22:33:02.960 [http-nio-8080-exec-2] INFO  c.y.h.a.service.impl.VerificationCodeServiceImpl - ==> 手机号: 15062396748, 已发送验证码：【184143】
+2025-05-06 22:33:02.962 [AuthExecutor-1] INFO  com.yyt.heartverse.auth.sms.AliyunSmsHelper - ==> 开始短信发送, phone: 15062396748, signName: 阿里云短信测试, templateCode: SMS_154950909, templateParam: {"code":"184143"}
+2025-05-06 22:33:02.969 [http-nio-8080-exec-2] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [发送短信验证码], 耗时: 511ms, 出参: {"success":true,"message":null,"errorCode":null,"data":null} =================================== 
+2025-05-06 22:33:03.991 [AuthExecutor-1] INFO  com.yyt.heartverse.auth.sms.AliyunSmsHelper - ==> 短信发送成功, response: {"headers":{"access-control-allow-origin":"*","date":"Tue, 06 May 2025 14:33:05 GMT","content-length":"110","keep-alive":"timeout=25","x-acs-request-id":"82F9FD67-5025-57E0-B773-D8CA4C261098","connection":"keep-alive","content-type":"application/json;charset=utf-8","etag":"1eeAd5IZ0PMy27tjr6gDEcg0","access-control-expose-headers":"*","x-acs-trace-id":"689b764abacc9f1e4490c824b9ca10c4"},"statusCode":200,"body":{"bizId":"638118946541985493^0","code":"OK","message":"OK","requestId":"82F9FD67-5025-57E0-B773-D8CA4C261098"}}
+2025-05-06 22:36:59.629 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 22:36:59.635 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 22:37:08.189 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 19864 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 22:37:08.189 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 22:37:08.989 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 22:37:08.989 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 22:37:09.039 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+2025-05-06 22:37:09.666 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 22:37:09.674 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 22:37:09.674 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 22:37:09.761 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 22:37:09.761 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1522 ms
+2025-05-06 22:37:10.399 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 22:37:10.645 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 22:37:10.979 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 22:37:10.995 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.344 seconds (process running for 4.538)
+2025-05-06 22:37:16.697 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 22:37:16.698 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 22:37:16.699 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 22:37:16.837 [http-nio-8080-exec-2] WARN  c.y.h.auth.exception.GlobalExceptionHandler - /verification/code/send request error, errorCode: AUTH-10001, errorMessage: phone 手机号格式不正确, 需为 11 位数字, 当前值: '1506239674'; 
+2025-05-06 22:46:56.377 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 22:46:56.387 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 22:47:07.597 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 27836 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 22:47:07.597 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 22:47:08.267 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 22:47:08.267 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 22:47:08.307 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+2025-05-06 22:47:08.857 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 22:47:08.867 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 22:47:08.867 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 22:47:08.957 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 22:47:08.957 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1300 ms
+2025-05-06 22:47:09.587 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 22:47:09.813 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 22:47:10.147 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 22:47:10.157 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.07 seconds (process running for 4.079)
+2025-05-06 22:47:15.550 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 22:47:15.550 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 22:47:15.553 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-05-06 22:47:15.609 [http-nio-8080-exec-1] WARN  o.s.core.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.yyt.heartverse.auth.controller.TestController
+2025-05-06 22:53:07.473 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 22:53:07.481 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 23:31:20.423 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 11364 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 23:31:20.423 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 23:31:21.092 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 23:31:21.100 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 23:31:21.125 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2025-05-06 23:31:21.670 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 23:31:21.681 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 23:31:21.681 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 23:31:21.776 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 23:31:21.776 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1302 ms
+2025-05-06 23:31:21.855 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 23:31:22.139 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 23:31:23.012 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 23:31:23.028 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.128 seconds (process running for 4.114)
+2025-05-06 23:31:33.423 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-06 23:31:33.423 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-06 23:31:33.424 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-06 23:31:33.568 [http-nio-8080-exec-1] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [发送短信验证码], 入参: {"phone":"15062396748"}, 请求类: VerificationCodeController, 请求方法: send =================================== 
+2025-05-06 23:31:34.071 [http-nio-8080-exec-1] INFO  c.y.h.a.service.impl.VerificationCodeServiceImpl - ==> 手机号: 15062396748, 已发送验证码：【124971】
+2025-05-06 23:31:34.072 [AuthExecutor-1] INFO  com.yyt.heartverse.auth.sms.AliyunSmsHelper - ==> 开始短信发送, phone: 15062396748, signName: 阿里云短信测试, templateCode: SMS_154950909, templateParam: {"code":"124971"}
+2025-05-06 23:31:34.081 [http-nio-8080-exec-1] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [发送短信验证码], 耗时: 522ms, 出参: {"success":true,"message":null,"errorCode":null,"data":null} =================================== 
+2025-05-06 23:31:34.995 [AuthExecutor-1] INFO  com.yyt.heartverse.auth.sms.AliyunSmsHelper - ==> 短信发送成功, response: {"headers":{"access-control-allow-origin":"*","date":"Tue, 06 May 2025 15:31:36 GMT","content-length":"110","keep-alive":"timeout=25","x-acs-request-id":"1D36FA14-D8F9-5210-A89C-4B62F0D9BED5","connection":"keep-alive","content-type":"application/json;charset=utf-8","etag":"1JCg0fQN0sZRANi6WW0zVrQ0","access-control-expose-headers":"*","x-acs-trace-id":"8a50784f1af6d3c46a79e958570d014c"},"statusCode":200,"body":{"bizId":"716206746545496604^0","code":"OK","message":"OK","requestId":"1D36FA14-D8F9-5210-A89C-4B62F0D9BED5"}}
+2025-05-06 23:33:47.359 [http-nio-8080-exec-9] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求开始: [用户登录/注册], 入参: {"phone":"15062396748","code":"124971","password":"123456","type":1}, 请求类: UserController, 请求方法: loginAndRegister =================================== 
+2025-05-06 23:33:47.400 [http-nio-8080-exec-9] DEBUG c.y.h.a.domain.mapper.UserDOMapper.selectByPhone - ==>  Preparing: select id, password from t_user where phone = ?
+2025-05-06 23:33:47.523 [http-nio-8080-exec-9] DEBUG c.y.h.a.domain.mapper.UserDOMapper.selectByPhone - ==> Parameters: 15062396748(String)
+2025-05-06 23:33:47.540 [http-nio-8080-exec-9] DEBUG c.y.h.a.domain.mapper.UserDOMapper.selectByPhone - <==      Total: 0
+2025-05-06 23:33:47.543 [http-nio-8080-exec-9] INFO  c.yyt.heartverse.auth.service.impl.UserServiceImpl - ==> 用户是否注册, phone: 15062396748, userDO: null
+2025-05-06 23:33:47.549 [http-nio-8080-exec-9] DEBUG c.y.h.auth.domain.mapper.UserDOMapper.insert - ==>  Preparing: insert into t_user (id, heartverse_id, `password`, nickname, avatar, birthday, background_img, phone, sex, `status`, introduction, create_time, update_time, is_deleted) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2025-05-06 23:33:47.559 [http-nio-8080-exec-9] DEBUG c.y.h.auth.domain.mapper.UserDOMapper.insert - ==> Parameters: null, 1(String), null, 小红薯1(String), null, null, null, 15062396748(String), null, 0(Integer), null, 2025-05-06T23:33:47.546746(LocalDateTime), 2025-05-06T23:33:47.546746(LocalDateTime), false(Boolean)
+2025-05-06 23:33:47.583 [http-nio-8080-exec-9] DEBUG c.y.h.auth.domain.mapper.UserDOMapper.insert - <==    Updates: 1
+2025-05-06 23:33:47.586 [http-nio-8080-exec-9] DEBUG c.y.h.auth.domain.mapper.UserRoleDOMapper.insert - ==>  Preparing: insert into t_user_role_rel (id, user_id, role_id, create_time, update_time, is_deleted ) values (?, ?, ?, ?, ?, ? )
+2025-05-06 23:33:47.589 [http-nio-8080-exec-9] DEBUG c.y.h.auth.domain.mapper.UserRoleDOMapper.insert - ==> Parameters: null, 1(Long), 1(Long), 2025-05-06T23:33:47.585916500(LocalDateTime), 2025-05-06T23:33:47.585916500(LocalDateTime), false(Boolean)
+2025-05-06 23:33:47.611 [http-nio-8080-exec-9] DEBUG c.y.h.auth.domain.mapper.UserRoleDOMapper.insert - <==    Updates: 1
+2025-05-06 23:33:47.678 [http-nio-8080-exec-9] INFO  c.y.f.b.operationlog.aspect.ApiOperationLogAspect - ====== 请求结束: [用户登录/注册], 耗时: 320ms, 出参: {"success":true,"message":null,"errorCode":null,"data":"b02c6375-2493-46f3-98ff-69cff77f0ef4"} =================================== 
+2025-05-06 23:36:59.767 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 23:36:59.777 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 23:37:08.245 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 3148 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 23:37:08.245 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 23:37:09.048 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 23:37:09.048 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 23:37:09.080 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2025-05-06 23:37:09.633 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 23:37:09.633 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 23:37:09.633 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 23:37:09.730 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 23:37:09.732 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1425 ms
+2025-05-06 23:37:09.808 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 23:37:10.111 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 23:37:11.125 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 23:37:11.125 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.488 seconds (process running for 4.707)
+2025-05-06 23:39:23.445 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 23:39:23.455 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 23:39:30.932 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 17124 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 23:39:30.934 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 23:39:31.606 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 23:39:31.606 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 23:39:31.640 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2025-05-06 23:39:32.148 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 23:39:32.164 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 23:39:32.164 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 23:39:32.237 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 23:39:32.237 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1244 ms
+2025-05-06 23:39:32.316 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 23:39:32.646 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 23:39:33.728 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 23:39:33.740 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.352 seconds (process running for 4.508)
+2025-05-06 23:49:42.754 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-05-06 23:49:42.760 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-05-06 23:50:09.178 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Starting HeartverseAuthApplication using Java 17.0.15 with PID 21036 (D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse\heartverse-auth\target\classes started by 86150 in D:\0资料\找工作\后端项目\项目\心集内容分享平台\code\heartverse)
+2025-05-06 23:50:09.180 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - The following 1 profile is active: "dev"
+2025-05-06 23:50:09.869 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-06 23:50:09.877 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-05-06 23:50:09.909 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+2025-05-06 23:50:10.433 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-05-06 23:50:10.440 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-06 23:50:10.440 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2025-05-06 23:50:10.525 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-06 23:50:10.525 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1295 ms
+2025-05-06 23:50:10.599 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-05-06 23:50:10.877 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-05-06 23:50:11.742 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-05-06 23:50:11.751 [main] INFO  com.yyt.heartverse.auth.HeartverseAuthApplication - Started HeartverseAuthApplication in 3.118 seconds (process running for 4.305)
+2025-05-06 23:50:11.753 [main] INFO  c.y.h.auth.runner.PushRolePermissions2RedisRunner - ==> 服务启动，开始同步角色权限数据到 Redis 中...
+2025-05-06 23:50:12.202 [main] DEBUG c.y.h.a.d.mapper.RoleDOMapper.selectEnabledList - ==>  Preparing: select id, role_key, role_name from t_role where status = 0 and is_deleted = 0
+2025-05-06 23:50:12.294 [main] DEBUG c.y.h.a.d.mapper.RoleDOMapper.selectEnabledList - ==> Parameters: 
+2025-05-06 23:50:12.312 [main] DEBUG c.y.h.a.d.mapper.RoleDOMapper.selectEnabledList - <==      Total: 1
+2025-05-06 23:50:12.331 [main] DEBUG c.y.h.a.d.m.RolePermissionDOMapper.selectByRoleIds - ==>  Preparing: select role_id, permission_id from t_role_permission_rel where role_id in ( ? )
+2025-05-06 23:50:12.336 [main] DEBUG c.y.h.a.d.m.RolePermissionDOMapper.selectByRoleIds - ==> Parameters: 1(Long)
+2025-05-06 23:50:12.340 [main] DEBUG c.y.h.a.d.m.RolePermissionDOMapper.selectByRoleIds - <==      Total: 2
+2025-05-06 23:50:12.342 [main] DEBUG c.y.h.a.d.m.P.selectAppEnabledList - ==>  Preparing: select id, name, permission_key from t_permission where status = 0 and type = 3 and is_deleted = 0
+2025-05-06 23:50:12.343 [main] DEBUG c.y.h.a.d.m.P.selectAppEnabledList - ==> Parameters: 
+2025-05-06 23:50:12.345 [main] DEBUG c.y.h.a.d.m.P.selectAppEnabledList - <==      Total: 2
+2025-05-06 23:50:12.383 [main] INFO  c.y.h.auth.runner.PushRolePermissions2RedisRunner - ==> 服务启动，成功同步角色权限数据到 Redis 中...
